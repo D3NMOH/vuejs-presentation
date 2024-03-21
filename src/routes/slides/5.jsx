@@ -72,10 +72,10 @@ export default function Slide4() {
         </div>
       </p>
       <p className="themeItem">
-        <span style={{ fontSize: "50px" }}>Vergleichsanalyse:</span>
+        <span style={{ fontSize: "50px" }}>Vergleichsanalyse</span>
         <br />
         <span style={{ fontSize: "40px" }}>
-          JSX-Syntax (React) vs. Vorlage (Vue.js):
+          JSX-Syntax (React) vs. Vorlage (Vue.js)
         </span>
         <p>
           In React wird JSX verwendet, um die Struktur von Komponenten zu
@@ -88,7 +88,7 @@ export default function Slide4() {
           Vue.js-Direktiven enthalten, um Daten und Zustand zu verwalten.
         </p>
         <span style={{ fontSize: "40px" }}>
-          Funktionskomponente (React) vs. Einzelfilkomponente (Vue.js):
+          Funktionskomponente (React) vs. Einzelfilkomponente (Vue.js)
         </span>
         <p>
           In React sind Funktionskomponenten einfache JavaScript-Funktionen, die
